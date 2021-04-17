@@ -1,0 +1,179 @@
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 991px) {
+    .info__header {
+        display: none;
+
+    }
+
+    .info {
+        flex-direction: column;
+        align-items: center;
+    }
+    .info__contact {
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 15px;
+    }
+    .header__inner {
+        display: none;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-left: 20px;
+    }
+
+    .header__burger {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-left: 20px;
+    }
+
+    .header__list {
+        flex-direction: column;
+
+    }
+
+
+
+    .logo {
+        padding-bottom: 20px;
+    }
+
+    .header__inner-link_one {
+        padding-bottom: 15px;
+    }
+
+    .header__inner-link {
+        padding-bottom: 15px;
+    }
+
+    .hero {
+        background-repeat: round;
+    }
+    .hero__title {
+        font-size: 50px;
+    }
+
+    .hero__block-desc {
+        font-size: 20px;
+    }
+
+    .hero__desc {
+        width: 300px;
+    }
+
+
+    .row {
+        margin: -30px 0;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .col-4 {
+        width: 100%;
+        padding: 30px 0;
+        text-align: center;
+    }
+
+    .col-6 {
+        width: 100%;
+
+    }
+
+    .img__col-6 {
+        width: 100%;
+    }
+
+    .season__bg-title {
+        font-size: 36px;
+    }
+
+
+    .season__block-desc {
+        font-size: 28px;
+    }
+
+    .season__price {
+        font-size: 24px;
+    }
+
+    .desc {
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+
+    .price {
+        font-size: 24px;
+    }
+
+    .collection__row {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .collection__desc {
+        width: 300px;
+    }
+
+    .collection__img {
+        background-repeat: round;
+    }
+
+    .col-3 {
+        width: 100%;
+        padding: 30px 0;
+        text-align: center;
+    }
+
+
+    #foot__menu {
+        height: 100%;
+    }
+
+    .foot__desc {
+        display: inline-block;
+        width: 350px;
+
+    }
+
+
+
+
+    .foot__btn {
+        margin: 0 -25px;
+    }
+
+    #foot__menu {
+        height: 100%;
+    }
+
+    .foot__col-3 {
+        padding: 0 10px;
+    }
+
+    .foot__item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    .footer {
+        padding-top: 60px;
+    }
+    .footer__text {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer__title {
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width: 770px) {
+
+}
